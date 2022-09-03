@@ -1,4 +1,4 @@
 # Moz-d-Samuel
-Hello World
-Bye.
-Love is divine, not verum wine
+<p>Hello World
+Bye.</p><br>
+***Love is divine, not verum wine***
